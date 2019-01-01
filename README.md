@@ -13,7 +13,7 @@ This script assumes:
 - SharePoint Online
 - Skype for Business Online
 
-DNS-Check.PS!
+DNS-Check.PS1
 ==================================================
 This isn't to be run on PowerShell core.
 This script will check if the following DNS records are pointing to Office 365:
