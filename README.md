@@ -1,5 +1,8 @@
 # Office-365-PowerShell
 PowerShell Scripts
+
+Login.PS1 :
+==================================================
 This isn't to be run on PowerShell core.
 This script assumes:
 
@@ -9,5 +12,17 @@ This script assumes:
 - Azure AD Preview
 - SharePoint Online
 - Skype for Business Online
+
+DNS-Check.PS!
+==================================================
+This isn't to be run on PowerShell core.
+This script will check if the following DNS records are pointing to Office 365:
+-MX
+-SPF
+-NS
+-DKIM
+-DMARC
+-AutoDiscover
+
 
 
